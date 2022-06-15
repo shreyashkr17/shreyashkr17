@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/shreyash-k-57616a181#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/shreyash-k-57616a181#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/shreyash-k-57616a181#gh-light-mode-only)
+[![instagram](./img/linkedin-dark.svg)](www.linkedin.com/in/shreyash-k-57616a181#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/enoughkr17/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/enoughkr17/#gh-dark-mode-only)
@@ -41,12 +41,12 @@
 
 ---
 
-[website]: https://codeSTACKr.com
+<!-- [website]: https://codeSTACKr.com -->
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/enoughkr17/
+[linkedin]: https://www.linkedin.com/in/shreyash-k-57616a181/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
