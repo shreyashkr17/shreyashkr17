@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/shreyash-k-57616a181#gh-light-mode-only)
-[![instagram](./img/linkedin-dark.svg)](www.linkedin.com/in/shreyash-k-57616a181#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/shreyash-k-57616a181#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/shreyash-k-57616a181#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/enoughkr17/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/enoughkr17/#gh-dark-mode-only)
