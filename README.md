@@ -3,7 +3,7 @@
 
 ## I'm a Front-End Developer!!
 
-- 🌱 I’m currently First year Grad student at IIIT Bhagalpur in Electronics & Comm. branch. 
+- 🌱 I’m currently Second year Grad student at IIIT Bhagalpur in Electronics & Comm. branch. 
 - 👯 I’m looking to participate in more Open Source platforms and other Hackathons.
 - 🥅 2022 Goals: Contribute More in Open Source
 - ⚡ Fact: I love to Read Books.
