@@ -63,7 +63,7 @@
  </tr>
 </table>
 
-##HacktoberFest 2022 Badges
+## HacktoberFest 2022 Badges
 
 [![@shreyashkr17's Holopin board](https://holopin.me/shreyashkr17)](https://holopin.io/@shreyashkr17)
 
