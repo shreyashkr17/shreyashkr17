@@ -1,7 +1,7 @@
 # Hi there, I'm Shreyash  👋 
 
 
-## I'm a Front-End Developer!!
+## I'm a Full-Stack Developer!!
 
 - 🌱 I’m currently Second year Grad student at IIIT Bhagalpur in Electronics & Comm. branch. 
 - 👯 I’m looking to participate in more Open Source platforms and other Hackathons.
